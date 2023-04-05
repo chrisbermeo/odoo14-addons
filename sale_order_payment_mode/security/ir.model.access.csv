@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_addons-ecuador/odoo14-addons/modulo_1_addons-ecuador/odoo14-addons/modulo_1,addons-ecuador/odoo14-addons/modulo_1.addons-ecuador/odoo14-addons/modulo_1,model_addons-ecuador/odoo14-addons/modulo_1_addons-ecuador/odoo14-addons/modulo_1,base.group_user,1,1,1,1
